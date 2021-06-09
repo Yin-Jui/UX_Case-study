@@ -88,10 +88,24 @@ img{
     height: auto;
 }
 
+
+
 #solution img{
   margin-right: 40px;
 }
 .description{
     text-align: center;
-  }
+}
+.center{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#link{
+  display: block;
+  text-align: center;
+  font-size: 36px;
+  color: blue;
+}
 
